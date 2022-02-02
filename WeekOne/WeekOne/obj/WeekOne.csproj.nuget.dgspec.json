@@ -1,28 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aidan\\Documents\\Projects\\LearnCSharp\\WeekOne\\WeekOne\\WeekOne.csproj": {}
+    "C:\\Users\\vanessa.ikebudu\\Documents\\Projects_With_Aidan\\learning-csharp\\WeekOne\\WeekOne\\WeekOne.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aidan\\Documents\\Projects\\LearnCSharp\\WeekOne\\WeekOne\\WeekOne.csproj": {
+    "C:\\Users\\vanessa.ikebudu\\Documents\\Projects_With_Aidan\\learning-csharp\\WeekOne\\WeekOne\\WeekOne.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aidan\\Documents\\Projects\\LearnCSharp\\WeekOne\\WeekOne\\WeekOne.csproj",
+        "projectUniqueName": "C:\\Users\\vanessa.ikebudu\\Documents\\Projects_With_Aidan\\learning-csharp\\WeekOne\\WeekOne\\WeekOne.csproj",
         "projectName": "WeekOne",
-        "projectPath": "C:\\Users\\Aidan\\Documents\\Projects\\LearnCSharp\\WeekOne\\WeekOne\\WeekOne.csproj",
-        "packagesPath": "C:\\Users\\Aidan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aidan\\Documents\\Projects\\LearnCSharp\\WeekOne\\WeekOne\\obj\\",
+        "projectPath": "C:\\Users\\vanessa.ikebudu\\Documents\\Projects_With_Aidan\\learning-csharp\\WeekOne\\WeekOne\\WeekOne.csproj",
+        "packagesPath": "C:\\Users\\vanessa.ikebudu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vanessa.ikebudu\\Documents\\Projects_With_Aidan\\learning-csharp\\WeekOne\\WeekOne\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Aidan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\vanessa.ikebudu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
         },
         "frameworks": {
           "net6.0": {
